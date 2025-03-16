@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sản Phẩm STEM Tổ 1 Lớp 10A9</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+      background-color: #f4f4f4;
+    }
+    #logo {
+      max-width: 150px;
+      margin-bottom: 20px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    h2, h3, h4 {
+      color: #333;
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    .category {
+      background: white;
+      margin: 20px 0;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    .sub-category {
+      background: #fff;
+      margin: 15px 0;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+    .link-container {
+      margin-top: 10px;
+    }
+    .link-item {
+      background: #f9f9f9;
+      padding: 8px;
+      margin: 5px 0;
+      border-radius: 5px;
+    }
+    .link-item a {
+      text-decoration: none;
+      color: #007bff;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <!-- Logo -->
+  <img id="logo" src="4D80413A-E236-4840-91AC-997AC1039E90.jpeg" alt="Logo của bạn">
+  <h2>Sản Phẩm STEM Tổ 1 Lớp 10A9</h2>
+
+  <!-- Môn Văn -->
+  <div class="category" id="monvan-category">
+    <h3>Môn Văn</h3>
+    <div class="link-container">
+      <div class="link-item">
+        <a href="https://muaroinuoc-stem-niqyz64.gamma.site/" target="_blank">Sản phẩm STEM Văn</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Môn Sử -->
+  <div class="category" id="monsu-category">
+    <h3>Môn Sử</h3>
+    <div class="link-container">
+      <div class="link-item">
+        <a href="https://example.com/su" target="_blank">Sản phẩm STEM Sử</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Giáo dục kinh tế &amp; Pháp Luật -->
+  <div class="category" id="gdpl-category">
+    <h3>Giáo dục kinh tế &amp; Pháp Luật</h3>
+    
+    <!-- Bàn 1 -->
+    <div class="sub-category" id="ban1-category">
+      <h4>Bàn 1</h4>
+      <div class="link-container">
+        <div class="link-item">
+          <a href="https://example.com/ban1" target="_blank">Sản phẩm STEM Bàn 1</a>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Bàn 2 -->
+    <div class="sub-category" id="ban2-category">
+      <h4>Bàn 2</h4>
+      <div class="link-container">
+        <div class="link-item">
+          <a href="https://example.com/ban2" target="_blank">Sản phẩm STEM Bàn 2</a>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Bàn 3 -->
+    <div class="sub-category" id="ban3-category">
+      <h4>Bàn 3</h4>
+      <div class="link-container">
+        <div class="link-item">
+          <a href="https://example.com/ban3" target="_blank">Sản phẩm STEM Bàn 3</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Môn Toán -->
+  <div class="category" id="montoan-category">
+    <h3>Môn Toán</h3>
+    <div class="link-container">
+      <div class="link-item">
+        <a href="https://example.com/toan" target="_blank">Sản phẩm STEM Toán</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
